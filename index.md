@@ -2,7 +2,7 @@
 
 description text
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/5ZZaW-F6zio" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5ZZaW-F6zio" frameborder="0" allowfullscreen></iframe>
 
 ## Overview of my Artifact
 
