@@ -4,18 +4,24 @@ description text
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/5ZZaW-F6zio" frameborder="0" allowfullscreen></iframe>
 
+---
 ## Overview of my Artifact
 
 description text
 
+---
 ## Enhancement 1
 
 description text
 
+---
 ## Enhancement 2
 
 description text
 
+---
 ## Enhancement 3
 
 description text
+
+---
