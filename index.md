@@ -3,7 +3,7 @@
 description text
 
 ## Overview of my Artifact
-![Artifact GitHub Repository](https://img.shields.io/badge/artifact_repo-github-303D49?style=for-the-badge&logo=github&link=https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming)
+![Artifact GitHub Repository](https://img.shields.io/badge/track_my_weight-github-303D49?style=for-the-badge&logo=github&link=https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming)
 
 The artifact I selected for all three enhancements is my full-stack mobile application called **Track My Weight** from CS-360 Mobile Architecture and Programming. The original app lets the user create an account and login to a local MySQL database, record new weight entries, and view their weight history in a scrollable list.
 
