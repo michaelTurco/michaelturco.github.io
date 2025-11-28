@@ -1,4 +1,3 @@
----
 ## Informal Code Review Video
 
 description text
@@ -7,6 +6,7 @@ description text
 
 ---
 ## Overview of my Artifact
+[![Artifact GitHub Repository](https://img.shields.io/badge/artifact_repo-github-303D49?style=for-the-badge&logo=github&link=https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming)]
 
 description text
 
