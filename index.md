@@ -8,9 +8,9 @@ My name is **Michael Turco**, and this ePortfolio
 
 - [Overview of my Artifact](#overview-of-my-artifact)
 - [Informal Code Review Video](#informal-code-review-video)
-- [Enhancement 1](#enhancement-1)
-- [Enhancement 2](#enhancement-2)
-- [Enhancement 3](#enhancement-3)
+- [Enhancement 1 - Software Engineering and Design](#enhancement-1---software-engineering-and-design)
+- [Enhancement 2 - Algorithms and Data-Structures](#enhancement-2---algorithms-and-data-structures)
+- [Enhancement 3 - Databases](#enhancement-3---databases)
 
 ## Overview of my Artifact
 
@@ -28,17 +28,17 @@ description text
 <iframe width="640" height="360" src="https://www.youtube.com/embed/5ZZaW-F6zio" frameborder="0" allowfullscreen></iframe>
 
 ---
-## Enhancement 1
+## Enhancement 1 - Software Engineering and Design
 
 description text
 
 ---
-## Enhancement 2
+## Enhancement 2 - Algorithms and Data Structures
 
 description text
 
 ---
-## Enhancement 3
+## Enhancement 3 - Databases
 
 description text
 
