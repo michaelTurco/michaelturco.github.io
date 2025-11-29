@@ -24,7 +24,7 @@ I originally completed the first version of the app in February 2025, and chose 
 ## Informal Code Review Video
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/5ZZaW-F6zio" frameborder="0" allowfullscreen></iframe>
-
+<p></p>
 In this video, I walk through the original version of my artifact and evaluate the current state of the code. I also outline the changes I plan to implement across all three enhancements detailed below.
 
 ---
