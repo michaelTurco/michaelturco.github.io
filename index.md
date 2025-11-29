@@ -2,7 +2,11 @@
 
 ## Table of Contents
 
-description text
+- [Overview of my Artifact](#overview-of-my-artifact)
+- [Informal Code Review Video](#informal-code-review-video)
+- [Enhancement 1](#enhancement-1)
+- [Enhancement 2](#enhancement-2)
+- [Enhancement 3](#enhancement-3)
 
 ## Overview of my Artifact
 
