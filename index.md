@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="/assets/custom.css">
 
-![Artifact GitHub Repository](https://img.shields.io/badge/eportfolio-github-233E56?style=for-the-badge&logo=github&link=https://github.com/michaelTurco/michaelturco.github.io)&nbsp;&nbsp;![Merit Pages - Michael Turco](https://img.shields.io/badge/merit_pages-michael_turco-0A6EB4?style=for-the-badge&logo=merit&link=https://meritpages.com/Michael-Turco/8191998)
-[![Artifact GitHub Repository](https://img.shields.io/badge/eportfolio-github-233E56?style=for-the-badge&logo=github)](https://github.com/michaelTurco/michaelturco.github.io)&nbsp;&nbsp;[![Merit Pages - Michael Turco](https://img.shields.io/badge/merit_pages-michael_turco-0A6EB4?style=for-the-badge&logo=merit)](https://meritpages.com/Michael-Turco/8191998)
+[![Artifact GitHub Repository](https://img.shields.io/badge/eportfolio-github-233E56?style=for-the-badge&logo=github)](https://github.com/michaelTurco/michaelturco.github.io)&nbsp;[![Merit Pages - Michael Turco](https://img.shields.io/badge/merit_pages-michael_turco-0A6EB4?style=for-the-badge&logo=merit)](https://meritpages.com/Michael-Turco/8191998)
 
 ## Introduction
 
@@ -19,7 +18,6 @@ My name is **Michael Turco**, and this ePortfolio is my capstone project for CS-
 
 The artifact I selected for all three enhancements is my full-stack mobile application called **Track My Weight** from CS-360 Mobile Architecture and Programming. The original app lets the user create an account and login to a local MySQL database, record new weight entries, and view their weight history in a scrollable list.
 
-![Artifact GitHub Repository](https://img.shields.io/badge/track_my_weight-github-233E56?style=for-the-badge&logo=github&link=https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming)
 [![Artifact GitHub Repository](https://img.shields.io/badge/track_my_weight-github-233E56?style=for-the-badge&logo=github)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming)
 
 I originally completed the first version of the app in February 2025, and chose it for this portfolio because it provided a strong foundation and plenty of opportunities for meaningful improvement. Through the **three enhancements described below**, I turned this project into a much more polished, professional, and user-ready application that I intend to publish on the app store.
