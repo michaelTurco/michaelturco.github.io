@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile
 title: Michael Turco's ePortfolio
 description: SNHU CS-499 Computer Science Capstone
+include:
+  - assets
