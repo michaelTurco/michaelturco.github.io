@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/custom.css">
+
 ![Artifact GitHub Repository](https://img.shields.io/badge/eportfolio-github-233E56?style=for-the-badge&logo=github&link=https://github.com/michaelTurco/michaelturco.github.io)&nbsp;&nbsp;![Merit Pages - Michael Turco](https://img.shields.io/badge/merit_pages-michael_turco-0A6EB4?style=for-the-badge&logo=merit&link=https://meritpages.com/Michael-Turco/8191998)
 
 ## Introduction
