@@ -29,8 +29,9 @@ In this video, I walk through the original version of my artifact in Android Stu
 
 ---
 ## Enhancement 1 - Software Engineering and Design
+**Original narrative PDF:** [(View Narrative)](https://github.com/michaelTurco/michaelturco.github.io/blob/main/narratives/CS-499%20Milestone%20Two%20Narrative.pdf)
 
-description text
+For the first enhancement to my full-stack application,
 
 ---
 ## Enhancement 2 - Algorithms and Data Structures
