@@ -18,7 +18,9 @@ My name is **Michael Turco**, and this ePortfolio is my capstone project for CS-
 
 The artifact I selected for all three enhancements is my full-stack mobile application called **Track My Weight** from CS-360 Mobile Architecture and Programming. The original app lets the user create an account and login to a local MySQL database, record new weight entries, and view their weight history in a scrollable list.
 
-[![Artifact GitHub Repository](https://img.shields.io/badge/track_my_weight-github-233E56?style=for-the-badge&logo=github)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming)
+**Original Artifact:** [(Entire Project)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming/tree/10afc06251f83af4ad8769564a242649a72e942c)&nbsp;&nbsp;[(Java Files)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming/tree/10afc06251f83af4ad8769564a242649a72e942c/app/src/main/java/com/turco_michael_weight_tracking)
+
+**Updated Artifact:** [(Entire Project)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming)&nbsp;&nbsp;[(Java Files)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming/tree/main/app/src/main/java/com/turco_michael_weight_tracking)
 
 I originally completed the first version of the app in February 2025, and chose it for this portfolio because it provided a strong foundation and plenty of opportunities for meaningful improvement. Through the **three enhancements described below**, I turned this project into a much more polished, professional, and user-ready application that I intend to publish on the app store.
 
