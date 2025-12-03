@@ -37,11 +37,13 @@ For the first enhancement to my full-stack application,
 
 ---
 ## Enhancement 2 - Algorithms and Data Structures
+**Original narrative PDF:** [(View Narrative)](https://github.com/michaelTurco/michaelturco.github.io/blob/main/narratives/CS-499%20Milestone%20Three%20Narrative.pdf)
 
 description text
 
 ---
 ## Enhancement 3 - Databases
+**Original narrative PDF:** [(View Narrative)](https://github.com/michaelTurco/michaelturco.github.io/blob/main/narratives/CS-499%20Milestone%20Four%20Narrative.pdf)
 
 description text
 
