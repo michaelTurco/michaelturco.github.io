@@ -35,13 +35,13 @@ In this video, I walk through the original version of my artifact in Android Stu
 ## Enhancement 1 - Software Engineering and Design
 **Original narrative PDF:** [(View Narrative)](https://github.com/michaelTurco/michaelturco.github.io/blob/main/narratives/CS-499%20Milestone%20Two%20Narrative.pdf)
 
-For the first enhancement to my full-stack application, I've added some new UI and features to improve the user experience while using the app.
+For the first enhancement to my full-stack application, I've updated the UI and added some new features to improve the user experience while using the app.
 
-In the login screen, I added an title and icon, some description text, and a 'Remember Me' button so that users can automatically be logged in when opening the app. The auto login feature was a big game changer for me when using the app, I no longer had to fiddle with the keyboard each time to login when I just wanted to add one small number. It made the app much more convenient to use, and the login screen now looks a lot more professional and less bland.
+In the login screen, I added a custom title and icon, some description text, and a 'Remember Me' button. Users can now automatically be logged in when opening the app, saving them time when quickly trying to access the app. When the 'Remember Me' flag is set, it saves their credentials to the apps storage, and whenever the app opens, auto populates the username and password, and attempts to sign in. These small and simple changes completely change the feel of this login menu, and makes the app significantly more convenient to use.
 
 <img src="/assets/images/login_page.png" width="400">
 
-I applied the logo to the apps actual icon, and gave the app a title so it displays properly in the users app list.
+I applied the custom logo I made to the app's icon, and replaced the name so it displays properly in the users app list.
 
 <img src="/assets/images/app_icon.png" width="300">
 
