@@ -37,13 +37,19 @@ In this video, I walk through the original version of my artifact in Android Stu
 
 For the first enhancement to my full-stack application, I've updated the UI and added some new features to improve the user experience while using the app.
 
-In the login screen, I added a custom title and icon, some description text, and a 'Remember Me' button. Users can now automatically be logged in when opening the app, saving them time when quickly trying to access the app. When the 'Remember Me' flag is set, it saves their credentials to the apps storage, and whenever the app opens, auto populates the username and password, and attempts to sign in. These small and simple changes completely change the feel of this login menu, and makes the app significantly more convenient to use.
+In the login screen, I added a custom title and icon, some description text, and a 'Remember Me' button. Users can now automatically be logged in when opening the app, saving them time when quickly trying to access the app. When the 'Remember Me' flag is set, it saves their credentials to the apps storage, and whenever the app opens, it auto populates the username & password and attempts to sign in. These fairly simple changes completely change the feel of this login menu, and makes the app significantly more user friendly and convenient to use.
 
 <img src="/assets/images/login_page.png" width="400">
 
-I applied the custom logo I made to the app's icon, and replaced the name so it displays properly in the users app list.
+I applied the custom logo I made to the app's icon, and replaced the name so it displays properly in the users app list. I created an adaptive android icon, with a background and foreground component. Luckily I thought ahead when creating this logo back in CS-360, and saved the original image file with two distinct layers so I didn't have to remake the gradient!
 
 <img src="/assets/images/app_icon.png" width="300">
+
+Lastly, I updated the settings page by adding a custom 'Measurement Unit' feature, which allows the user to switch between pounds and kilograms. This part was a little bit harder than it may seem at first, I had to update every single UI element that was hard-coded to originally work with pounds. I also had to change how the user input was handled when adding a new weight or setting a goal weight, since a value of '50' could either mean 50 pounds or 50 kilograms depending on what setting they had activated.
+
+To help me out with this, I made a helper class called 'UnitConverter', as well as a 'MeasurementUnit' enum, in case I ever wanted to add more measurement units in the future. I made functions to convert from any measurement unit to any other measurement unit, which came in very handy. I figured out that storing the weight in the same measurement unit every time is the best, since you won't have to update tons of values each time you switch units. I chose to store all my weights in pounds, since that is what the app originally used. Each time the app tries to display a weight value, it first converts from pounds to the selected measurement unit, and any time user input is accepted, it is converted from the selected measurement unit into pounds.
+
+<img src="/assets/images/settings_page.png" width="400">
 
 ---
 ## Enhancement 2 - Algorithms and Data Structures
