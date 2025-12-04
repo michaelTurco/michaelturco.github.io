@@ -13,6 +13,7 @@ My name is **Michael Turco**, and this ePortfolio is my capstone project for CS-
 - [Enhancement 1 - Software Engineering and Design](#enhancement-1---software-engineering-and-design)
 - [Enhancement 2 - Algorithms and Data-Structures](#enhancement-2---algorithms-and-data-structures)
 - [Enhancement 3 - Databases](#enhancement-3---databases)
+- [Course Outcomes](#course-outcomes)
 
 ## Overview of my Artifact
 
@@ -47,5 +48,16 @@ description text
 **Original narrative PDF:** [(View Narrative)](https://github.com/michaelTurco/michaelturco.github.io/blob/main/narratives/CS-499%20Milestone%20Four%20Narrative.pdf)
 
 description text
+
+---
+## Course Outcomes
+
+These are the **five** course outcomes that I will be demonstrating mastery in through my project.
+
+1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+2. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+3. Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+4. Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+5. Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, migitage design flaws, and ensure privacy and enhanced security of data and resources
 
 ---
