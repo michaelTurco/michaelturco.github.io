@@ -35,7 +35,9 @@ In this video, I walk through the original version of my artifact in Android Stu
 ## Enhancement 1 - Software Engineering and Design
 **Original narrative PDF:** [(View Narrative)](https://github.com/michaelTurco/michaelturco.github.io/blob/main/narratives/CS-499%20Milestone%20Two%20Narrative.pdf)
 
-For the first enhancement to my full-stack application,
+For the first enhancement to my full-stack application, I've added some new UI and features to improve the user experience while using the app.
+
+In the login screen, I added an title and icon, some description text, and a 'Remember Me' button so that users can automatically be logged in when opening the app. The auto login feature was a big game changer for me when using the app, I no longer had to fiddle with the keyboard each time to login when I just wanted to add one small number. It made the app much more convenient to use, and the login screen now looks a lot more professional and less bland. I applied the logo to the apps actual icon, and gave the app a title so it displays properly in the users app list.
 
 ---
 ## Enhancement 2 - Algorithms and Data Structures
