@@ -51,6 +51,9 @@ To help me out with this, I made a helper class called 'UnitConverter', as well 
 
 <img src="/assets/images/settings_page.png" width="400">
 
+**Course Outcomes Reached:**  
+Through this enhancement, I reached [course outcomes](#course-outcomes) #1 and #4. Improving the login UI and login process delivered real value to the app since the overall user experience was improved, and users no longer have to sit through entering their login credentials each time. Allowing the users to switch measurement units improved the accessibility of the app, since users who aren't used to pounds or don't have a scale that shows pounds can now use the app more comfortably.
+
 ---
 ## Enhancement 2 - Algorithms and Data Structures
 **Original narrative PDF:** [(View Narrative)](https://github.com/michaelTurco/michaelturco.github.io/blob/main/narratives/CS-499%20Milestone%20Three%20Narrative.pdf)
@@ -66,6 +69,9 @@ To calculate the estimation time, I made an algorithm to compute the weighted li
 On the home page, I added a UI element to navigate to the graph page, and you can also see the graph's estimation time at a glance, almost like a 'dashboard' page. I also added a simple round button to the 'Weight List' page, to simply navigate to the graph from there as well.
 
 <img src="/assets/images/home_page.png" width="400">
+
+**Course Outcomes Reached:**  
+Through this enhancement, I reached [course outcomes](#course-outcomes) #3 and #1. I implemented an algorithm to calculate the trend line of a graph of data, and used this to estimate when the user will reach their goal weight. This feature lets the user get more use out of the app and their data, since they can quickly check if they are on track to meet their goals without having to do complex computations themselves.
 
 ---
 ## Enhancement 3 - Databases
@@ -84,6 +90,9 @@ For the data storage, I used Firebase's Firestore database, which lets you creat
 I also added some features to the 'Account' page, which was previously left blank when I worked on it last in CS-360. I added a way to change the user's "nickname", which is what the app greets them with in the home page, and also added a 'Sign Out' button to clear the authentication and return to the login screen.
 
 <img src="/assets/images/account_page.png" width="400">
+
+**Course Outcomes Reached:**  
+Through this enhancement, I reached [course outcomes](#course-outcomes) #5, and #4. By adding Firebase authentication and a Firestore database, the user accounts are much more secure, and the user data is now hidden from those who don't have access. This is drastically different from storing the user passwords and data in plaintext on the local MySQL database, and it's a big leap towards a more realistic app. Firebase is a professionally used cloud platform for building online databases, and I referenced their official documentation when implementing authentication and data storage.
 
 ---
 ## Course Outcomes
