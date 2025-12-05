@@ -71,7 +71,19 @@ On the home page, I added a UI element to navigate to the graph page, and you ca
 ## Enhancement 3 - Databases
 **Original narrative PDF:** [(View Narrative)](https://github.com/michaelTurco/michaelturco.github.io/blob/main/narratives/CS-499%20Milestone%20Four%20Narrative.pdf)
 
-description text
+For the third enhancement, I switched from using a local MySQL database, to an online hosted Firebase database. I added account creation and user authentication, and stored user data in a secured document using Firebase Firestore. I also implemented the 'Account' page, which was previously a blank page, and added some new features there.
+
+For the user authentication, I used Firebase's username and password authentication, which requires an email username. In the image below you can see that I chose a generic email address at the end of their username, but the user never ends up seeing this internal email value anyways. I made a 'LoginAuthentication' class to help out with handling the Firebase interface, and implemented registering, signing in, and parsing an error message into a readable popup message.
+
+<img src="/assets/images/firebase_authentication.png" width="700">
+
+For the data storage, I used Firebase's Firestore database, which lets you create 'user documents' that require authentication with that account in order to read. I stored the list of weight entries, which stores a timestamp and a float weight value for each entry. You can see the Firestore file structure I have set up below:
+
+<img src="/assets/images/firebase_firestore.png" width="700">
+
+I also added some features to the 'Account' page, which was previously left blank when I worked on it last in CS-360. I added a way to change the user's "nickname", which is what the app greets them with in the home page, and also added a 'Sign Out' button to clear the authentication and return to the login screen.
+
+<img src="/assets/images/account_page.png" width="400">
 
 ---
 ## Course Outcomes
