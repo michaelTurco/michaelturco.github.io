@@ -55,7 +55,17 @@ To help me out with this, I made a helper class called 'UnitConverter', as well 
 ## Enhancement 2 - Algorithms and Data Structures
 **Original narrative PDF:** [(View Narrative)](https://github.com/michaelTurco/michaelturco.github.io/blob/main/narratives/CS-499%20Milestone%20Three%20Narrative.pdf)
 
-description text
+For the second enhancement, I focused on adding a 'graph' page and an algorithm to estimate the time in days until the user reaches their goal weight.
+
+I created a new graph UI page, and added some relevant UI elements so the user can edit their goal weight, or see the prediction time. I used the **MPAndroidChart** library to create the graph UI element, and configured it's settings to get it to look how I wanted. This graph had a lot of the features that I was looking for, such as pinch to zoom, drag to pan around, custom graph scale and spacing, and a custom axis name formatter. I looped through all the user's weight data and plotted those points on the graph, with lines connecting each point.
+
+To calculate the estimation time, I made an algorithm to compute the weighted linear regression of the data points, which in the end gives a 'line of best fit'. I use this line to calculate the intercept to the goal weight line, and figure out the time amount from there. I display this estimation in a little UI element on the bottom, which can also show "N/A" if the line doesn't cross at some future date.
+
+<img src="/assets/images/graph_page.png" width="200">
+
+On the home page, I added a UI element to navigate to the graph page, and you can also see the graph's estimation time at a glance, almost like a 'dashboard' page. I also added a simple round button to the 'Weight List' page, to simply navigate to the graph from there as well.
+
+<img src="/assets/images/home_page.png" width="400">
 
 ---
 ## Enhancement 3 - Databases
