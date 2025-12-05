@@ -61,7 +61,7 @@ I created a new graph UI page, and added some relevant UI elements so the user c
 
 To calculate the estimation time, I made an algorithm to compute the weighted linear regression of the data points, which in the end gives a 'line of best fit'. I use this line to calculate the intercept to the goal weight line, and figure out the time amount from there. I display this estimation in a little UI element on the bottom, which can also show "N/A" if the line doesn't cross at some future date.
 
-<img src="/assets/images/graph_page.png" width="200">
+<img src="/assets/images/graph_page.png" width="300">
 
 On the home page, I added a UI element to navigate to the graph page, and you can also see the graph's estimation time at a glance, almost like a 'dashboard' page. I also added a simple round button to the 'Weight List' page, to simply navigate to the graph from there as well.
 
