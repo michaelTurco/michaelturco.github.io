@@ -51,6 +51,8 @@ To help me out with this, I made a helper class called 'UnitConverter', as well 
 
 <img src="/assets/images/settings_page.png" width="400">
 
+While working on this enhancement I learned a lot about developing Android apps, such as the different classes used like 'Fragment', 'Activity', 'Context', and the 'binding' variable. I found ways to cleanly organize the code to make it more readable, and made helper functions to help with navigation and unit conversion. I used some references to documentation for help at times, which often made me learn about features or functions that were available to me. I learned how to interface with the bottom navigation bar to navigate the user, and also had to figure out screen transition animations to keep the UI smooth.
+
 **Course Outcomes Reached:**  
 Through this enhancement, I reached [course outcomes](#course-outcomes) #1 and #4. Improving the login UI and login process delivered real value to the app since the overall user experience was improved, and users no longer have to sit through entering their login credentials each time. Allowing the users to switch measurement units improved the accessibility of the app, since users who aren't used to pounds or don't have a scale that shows pounds can now use the app more comfortably.
 
