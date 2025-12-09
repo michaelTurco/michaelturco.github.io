@@ -6,8 +6,15 @@
 
 My name is **Michael Turco**, and this ePortfolio is my capstone project for CS-499 at SNHU. I'll be creating a professional and polished artifact through three different categories of enhancements, and showcasing the skills I've learned while attending SNHU. I plan to graduate with a Bachelor's degree in Computer Science / Software Engineering in December 2025!
 
+---
+## Professional Self-Assessment
+
+description text
+
+---
 ## Table of Contents
 
+- [Professional Self-Assessment](#professional-self-assessment)
 - [Overview of my Artifact](#overview-of-my-artifact)
 - [Informal Code Review Video](#informal-code-review-video)
 - [Enhancement 1 - Software Engineering and Design](#enhancement-1---software-engineering-and-design)
@@ -15,6 +22,7 @@ My name is **Michael Turco**, and this ePortfolio is my capstone project for CS-
 - [Enhancement 3 - Databases](#enhancement-3---databases)
 - [Course Outcomes](#course-outcomes)
 
+---
 ## Overview of my Artifact
 
 The artifact I selected for all three enhancements is my full-stack mobile application called **Track My Weight** from CS-360 Mobile Architecture and Programming. The original app lets the user create an account and log in to a local MySQL database, record new weight entries, and view their weight history in a scrollable list.
