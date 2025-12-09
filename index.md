@@ -7,11 +7,6 @@
 My name is **Michael Turco**, and this ePortfolio is my capstone project for CS-499 at SNHU. I'll be creating a professional and polished artifact through three different categories of enhancements, and showcasing the skills I've learned while attending SNHU. I plan to graduate with a Bachelor's degree in Computer Science / Software Engineering in December 2025!
 
 ---
-## Professional Self-Assessment
-
-description text
-
----
 ## Table of Contents
 
 - [Professional Self-Assessment](#professional-self-assessment)
@@ -21,6 +16,11 @@ description text
 - [Enhancement 2 - Algorithms and Data-Structures](#enhancement-2---algorithms-and-data-structures)
 - [Enhancement 3 - Databases](#enhancement-3---databases)
 - [Course Outcomes](#course-outcomes)
+
+---
+## Professional Self-Assessment
+
+description text
 
 ---
 ## Overview of my Artifact
