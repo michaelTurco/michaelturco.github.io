@@ -95,6 +95,8 @@ I also added some features to the 'Account' page, which was previously left blan
 
 <img src="/assets/images/account_page.png" width="400">
 
+While working on this enhancement, I learned a ton about implementing Firebase and working with its API. I was constantly referencing their documentation, and ended up creating separate helper classes to handle user authentication and the user data storage separately. It was quite a challenge to switch from a local MySQL database to Firebase, especially since I now had to consider what happens if the database request fails, or the user doesn't have internet. I ended up making it load the entire account data when logging in, meaning all my old code was still able to have instant read access, but I had to update some menus that wrote values since it wasn't instant write. I learned a lot about handling the different errors that come with reading and writing data through the internet, as well as how to implement Firebase and Firestore to other apps in the future!
+
 **Course Outcomes Reached:**  
 Through this enhancement, I reached [course outcomes](#course-outcomes) #5, and #4. By adding Firebase authentication and a Firestore database, the user accounts are much more secure, and the user data is now hidden from those who don't have access. This is drastically different from storing the user passwords and data in plaintext on the local MySQL database, and it's a big leap towards a more realistic app. Firebase is a professionally used cloud platform for building online databases, and I referenced their official documentation when implementing authentication and data storage.
 
