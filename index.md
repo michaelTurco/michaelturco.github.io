@@ -20,7 +20,7 @@ My name is **Michael Turco**, and this ePortfolio is my capstone project for CS-
 ---
 ## Professional Self-Assessment
 
-description text
+Throughout my 4 years in the 2+2 Computer Science program at MCC & SNHU and by developing this ePortfolio, I've been able to see my growth as a developer and clearly understand the technical strengths I bring to the field. This ePortfolio serves as a way for me to show my compentency and skills I've learned while in the program, and to show how I turned one of my existing projects into a polished and professional app by the end. This whole process has helped me clarify the direction I want to take in the computer science industry as I continue learning and growing as a developer.
 
 ---
 ## Overview of my Artifact
