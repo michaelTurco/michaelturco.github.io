@@ -24,6 +24,8 @@ Throughout my 4 years in the 2+2 Computer Science program at MCC & SNHU and by d
 
 In [CS-360 Mobile Architecture and Programming](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming) and [CS-465 Full Stack Development](https://github.com/michaelTurco/CS-465-Full-Stack-Development), we were required to create and maintain a GitHub repository throughout the main project, and make multiple pushes for each milestone. Working this way helped me build habits that support collaboration, such as making clear and readable commit messages, and structuring my commits instead of adding tons of unrelated changes together. Even though I worked on these projects alone, the workflow mirrors a real team environment, where tools like GitHub are essential for coordinating and collaborating in a team.
 
+In CS-250 Software Development Lifecycle and CS-255 Systems Analysis and Design, I learned about the Scrum framework and Agile approach, and gained experience working with user stories, requirement gathering, and communicating with stakeholders in a more formal and structured way. I learned how to write clear and detailed user stories that capture what stakeholders need without requiring technical language, and created professional UML diagrams that are easy for non-technical audiences to understand. These courses helped me understand how to present ideas clearly and up to a specific standard, which is an important skill when working with team members, project managers, or even stakeholders.
+
 ---
 ## Overview of my Artifact
 
