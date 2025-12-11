@@ -49,17 +49,23 @@ For the first enhancement to my full-stack application, I've updated the UI and 
 
 In the login screen, I added a custom title and icon, some description text, and a 'Remember Me' button. Users can now automatically be logged in when opening the app, saving them time when quickly trying to access the app. When the 'Remember Me' flag is set, it saves their credentials to the app's storage, and whenever the app opens, it auto populates the username & password and attempts to sign in. These fairly simple changes completely change the feel of this login menu, and makes the app significantly more user friendly and convenient to use.
 
-<img src="/assets/images/login_page.png" width="400">
+<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/login_page.png" target="_blank">
+    <img src="/assets/images/login_page.png" width="400">
+</a>
 
 I applied the custom logo I made to the app's icon, and replaced the name so it displays properly in the user's app list. I created an adaptive android icon, with a background and foreground component. Fortunately, I thought ahead when creating this logo back in CS-360, and saved the original image file with two distinct layers so I didn't have to remake the gradient!
 
-<img src="/assets/images/app_icon.png" width="300">
+<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/app_icon.png" target="_blank">
+    <img src="/assets/images/app_icon.png" width="300">
+</a>
 
 Lastly, I updated the settings page by adding a custom 'Measurement Unit' feature, which allows the user to switch between pounds and kilograms. This part was a little bit harder than it may seem at first, I had to update every single UI element that was hard-coded to originally work with pounds. I also had to change how the user input was handled when adding a new weight or setting a goal weight, since a value of '50' could either mean 50 pounds or 50 kilograms depending on what setting they had activated.
 
 To help me out with this, I made a helper class called 'UnitConverter', as well as a 'MeasurementUnit' enum, in case I ever wanted to add more measurement units in the future. I made functions to convert from any measurement unit to any other measurement unit, which came in very handy. I figured out that storing the weight in the same measurement unit every time is the best, since you won't have to update tons of values each time you switch units. I chose to store all the weights in pounds, since that is what the app originally used. Each time the app tries to display a weight value, it first converts from pounds to the selected measurement unit, and any time user input is accepted, it is converted from the selected measurement unit into pounds.
 
-<img src="/assets/images/settings_page.png" width="400">
+<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/settings_page.png" target="_blank">
+    <img src="/assets/images/settings_page.png" width="400">
+</a>
 
 While working on this enhancement I learned a lot about developing Android apps, such as the different classes used like 'Fragment', 'Activity', 'Context', and the 'binding' variable. I found ways to cleanly organize the code to make it more readable, and made helper functions to help with navigation and unit conversion. I used some references to documentation for help at times, which often made me learn about features or functions that were available to me. I learned how to interface with the bottom navigation bar to navigate the user, and also had to figure out screen transition animations to keep the UI smooth. I didn't encounter too many issues when working through this enhancement, but it was certainly a big task to work through all the old code and figure out how it can be refactored.
 
@@ -76,11 +82,15 @@ I created a new graph UI page, and added some relevant UI elements so the user c
 
 To calculate the estimation time, I made an algorithm to compute the weighted linear regression of the data points, which in the end gives a 'line of best fit'. I use this line to calculate the intercept to the goal weight line, and figure out the time amount from there. I display this estimation in a little UI element on the bottom, which can also show "N/A" if the line doesn't cross at some future date.
 
-<img src="/assets/images/graph_page.png" width="300">
+<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/graph_page.png" target="_blank">
+    <img src="/assets/images/graph_page.png" width="300">
+</a>
 
 On the home page, I added a UI element to navigate to the graph page, and you can also see the graph's estimation time at a glance, almost like a 'dashboard' page. I also added a simple round button to the 'Weight List' page, to simply navigate to the graph from there as well.
 
-<img src="/assets/images/home_page.png" width="400">
+<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/home_page.png" target="_blank">
+    <img src="/assets/images/home_page.png" width="400">
+</a>
 
 While working on this enhancement, I learned about the MPAndroidChart library, which is used to render a graph with points in the UI. Without this library, it would have been quite a challenge to get the graph working how I wanted it, but it still required some configuring out-of-the-box before it was ready. Implementing the weighted linear regression formula was also a little challenging, since I ran into the issue of precision with my data timestamp values. The graph only worked with floats, and when I tried to pass in my epoch timestamp, the float value would greatly lose precision, down to the nearest 31 whole minutes. This was a pretty tough issue to spot and to fix, but I eventually realized I can 'normalize' the timestamps to 0, and add back the time only when trying to display the date. I learned a lot about setting up a graph in code, performing a complex formula on a set of data, and then plotting that data on the graph.
 
@@ -95,15 +105,21 @@ For the third enhancement, I switched from using a local MySQL database, to an o
 
 For the user authentication, I used Firebase's username and password authentication, which requires an email username. In the image below you can see that I chose a generic email address at the end of their username, but the user never ends up seeing this internal email value anyways. I made a 'LoginAuthentication' class to help out with handling the Firebase interface, and implemented registering, signing in, and parsing an error message into a readable popup message.
 
-<img src="/assets/images/firebase_authentication.png" width="700">
+<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/firebase_authentication.png" target="_blank">
+    <img src="/assets/images/firebase_authentication.png" width="700">
+</a>
 
 For the data storage, I used Firebase's Firestore database, which lets you create 'user documents' that require authentication with that account in order to read. I stored the list of weight entries, which stores a timestamp and a float weight value for each entry. You can see the Firestore file structure I have set up below:
 
-<img src="/assets/images/firebase_firestore.png" width="700">
+<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/firebase_firestore.png" target="_blank">
+    <img src="/assets/images/firebase_firestore.png" width="700">
+</a>
 
 I also added some features to the 'Account' page, which was previously left blank when I worked on it last in CS-360. I added a way to change the user's "nickname", which is what the app greets them with in the home page, and also added a 'Sign Out' button to clear the authentication and return to the login screen.
 
-<img src="/assets/images/account_page.png" width="400">
+<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/account_page.png" target="_blank">
+    <img src="/assets/images/account_page.png" width="400">
+</a>
 
 While working on this enhancement, I learned a ton about implementing Firebase and working with its API. I was constantly referencing their documentation, and ended up creating separate helper classes to handle user authentication and the user data storage separately. It was quite a challenge to switch from a local MySQL database to Firebase, especially since I now had to consider what happens if the database request fails, or the user doesn't have internet. I ended up making it load the entire account data when logging in, meaning all my old code was still able to have instant read access, but I had to update some menus that wrote values since it wasn't instant write. I learned a lot about handling the different errors that come with reading and writing data through the internet, as well as how to implement Firebase and Firestore to other apps in the future!
 
