@@ -29,7 +29,7 @@ In **CS-250 Software Development Lifecycle** and **CS-255 Systems Analysis and D
 In **CS-319 UI UX Design and Development** and [CS-360 Mobile Architecture and Programming](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming), I learned so much about what makes a good user interface and user experience. I designed several professional quality user interfaces, such as for the 'Kiva Loan Manager' app, the 'Health Scanner' app, and the 'Track my Weight' app. I developed skills in translating complex requirements into intuitive and user-friendly interfaces. These courses helped me realize that I truly enjoy designing UI, and love thinking about ways to improve the layout or the user experience. Here is one of the UI's I designed for a loan manager app called 'Kiva', that needed to work on small flip-phones:
 
 <a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/kiva_ui.png" target="_blank">
-    <img src="/assets/images/kiva_ui.png" width="600">
+    <img src="/assets/images/kiva_ui.png" width="620">
 </a>
 
 In **CS-370 Current and Emerging Trends**, I implemented the main Q-Learning epoch loop for an AI agent navigating a 8x8 maze. I used arrays and other data structures to represent the maze and available actions, and applied algorithms to balance exploration and exploitation for the agent's learning.
@@ -37,7 +37,7 @@ In **CS-370 Current and Emerging Trends**, I implemented the main Q-Learning epo
 In [CS-330 Computer Graphics and Visualization](https://github.com/michaelTurco/CS-330-Computer-Graphics-and-Visualization), I worked on recreating a reference image in a 3D scene using OpenGL and C++. I learned how to efficiently manage rendering lots of different objects while keeping the code clean and readable, and learned how to make a 3D scene programmatically rather than in some kind of 3D editor. Below is an image showing my project in OpenGL, along with the reference image I used:
 
 <a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/park_opengl.png" target="_blank">
-    <img src="/assets/images/park_opengl.png" width="600">
+    <img src="/assets/images/park_opengl.png" width="620">
 </a>
 
 I also strengthened my understanding of databases and security through courses like **CS-340 Client/Server Development**, **CS-305 Software Security**, and **CS-405 Secure Coding**. I learned how to design and interact with relational and non-relational databases like MySQL, MongoDB, and Firebase, and wrote secure queries to avoid common vulnerabilities like SQL injection and issues with input sanitization and authentication. These courses also introduced me to running Maven dependency checks to spot vulnerable libraries and using OWASP guidelines to find and prevent common weaknesses in security. I learned how to write automated test cases for my code called 'unit tests', which are a great way to quickly test the functionality of your application without needing to rely on an actual tester remembering all the edge cases. They definitely take some time to set up at the start, but they help out immensely in the long run when you can run thousands of tests automatically every time you update the code. Unit tests have shown me the importance of smaller, testable components that make the codebase easier to maintain as the project grows.
