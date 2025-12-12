@@ -43,12 +43,12 @@ I also strengthened my understanding of databases and security through courses l
 ---
 ## Overview of my Artifact
 
-The artifact I selected for all three enhancements is my full-stack mobile application called **Track My Weight** from [CS-360 Mobile Architecture and Programming](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming). The original app lets the user create an account and log in to a local MySQL database, record new weight entries, and view their weight history in a scrollable list.
+The artifact I selected for all three enhancements is my full-stack mobile application called **Track My Weight** from [CS-360 Mobile Architecture and Programming](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming). The original app lets the user create an account and log in to a local MySQL database, record new weight entries, and view their weight history in a scrollable list. The app has a fairly simple user interface, and features a bottom navigation bar with 5 buttons to switch to different menus. The app was made using **Android Studio** back in February 2025, and was mainly coded in Java. I chose this artifact because it provided a strong foundation and plenty of opportunities for meaningful improvement in both the front-end and back-end.
 
 **Original Artifact:** [(Entire Project)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming/tree/10afc06251f83af4ad8769564a242649a72e942c)&nbsp;and&nbsp;[(Only Java Files)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming/tree/10afc06251f83af4ad8769564a242649a72e942c/app/src/main/java/com/turco_michael_weight_tracking)  
 **Updated Artifact:** [(Entire Project)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming)&nbsp;and&nbsp;[(Only Java Files)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming/tree/main/app/src/main/java/com/turco_michael_weight_tracking)
 
-I originally completed the first version of the app in February 2025, and chose it for this portfolio because it provided a strong foundation and plenty of opportunities for meaningful improvement. Through the **three enhancements described below**, I turned this project into a much more polished, professional, and user-ready application that I intend to publish on the app store.
+Through the **three enhancements described below**, I turned this project into a much more polished, professional, and user-ready application that I intend to publish on the app store!
 
 ---
 ## Informal Code Review Video
