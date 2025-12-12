@@ -32,9 +32,7 @@ In **CS-319 UI UX Design and Development** and [CS-360 Mobile Architecture and P
     <img src="/assets/images/kiva_ui.png" width="620">
 </a>
 
-In **CS-370 Current and Emerging Trends**, I implemented the main Q-Learning epoch loop for an AI agent navigating a 8x8 maze. I used arrays and other data structures to represent the maze and available actions, and applied algorithms to balance exploration and exploitation for the agent's learning.
-
-In [CS-330 Computer Graphics and Visualization](https://github.com/michaelTurco/CS-330-Computer-Graphics-and-Visualization), I worked on recreating a reference image in a 3D scene using OpenGL and C++. I learned how to efficiently manage rendering lots of different objects while keeping the code clean and readable, and learned how to make a 3D scene programmatically rather than in some kind of 3D editor. Below is an image showing my project in OpenGL, along with the reference image I used:
+In **CS-370 Current and Emerging Trends**, I implemented the main Q-Learning epoch loop for an AI agent navigating an 8x8 maze. I used arrays and other data structures to represent the maze and available actions, and applied algorithms to balance exploration and exploitation for the agent's learning. Data structures and algorithms are the foundation for creating clean, scalable, maintainable, and reusable code. In [CS-330 Computer Graphics and Visualization](https://github.com/michaelTurco/CS-330-Computer-Graphics-and-Visualization), I worked on recreating a reference image in a 3D scene using OpenGL and C++. I learned how to efficiently manage rendering lots of different objects while keeping the code clean and readable, and learned how to make a 3D scene programmatically rather than in some kind of 3D editor. Below is an image showing my project in OpenGL, along with the reference image I used:
 
 <a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/park_opengl.png" target="_blank">
     <img src="/assets/images/park_opengl.png" width="620">
