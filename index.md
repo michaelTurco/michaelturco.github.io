@@ -32,6 +32,12 @@ In **CS-319 UI UX Design and Development** and [CS-360 Mobile Architecture and P
     <img src="/assets/images/kiva_ui.png" width="600">
 </a>
 
+In [CS-330 Computer Graphics and Visualization](https://github.com/michaelTurco/CS-330-Computer-Graphics-and-Visualization)
+
+<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/park_opengl.png" target="_blank">
+    <img src="/assets/images/park_opengl.png" width="600">
+</a>
+
 I also strengthened my understanding of databases and security through courses like **CS-340 Client/Server Development**, **CS-305 Software Security**, and **CS-405 Secure Coding**. I learned how to design and interact with relational and non-relational databases like MySQL, MongoDB, and Firebase, and wrote secure queries to avoid common vulnerabilities like SQL injection and issues with input sanitization and authentication. These courses also introduced me to running Maven dependency checks to spot vulnerable libraries and using OWASP guidelines to find and prevent common weaknesses in security. I learned how to write automated test cases for my code called 'unit tests', which are a great way to quickly test the functionality of your application without needing to rely on an actual tester remembering all the edge cases. They definitely take some time to set up at the start, but they help out immensely in the long run when you can run thousands of tests automatically every time you update the code. Unit tests have shown me the importance of smaller, testable components that make the codebase easier to maintain as the project grows.
 
 ---
