@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="/assets/custom.css">
 
-[![Artifact GitHub Repository](https://img.shields.io/badge/eportfolio-github-233E56?style=for-the-badge&logo=github)](https://github.com/michaelTurco/michaelturco.github.io)&nbsp;[![Merit Pages - Michael Turco](https://img.shields.io/badge/merit_pages-michael_turco-0A6EB4?style=for-the-badge&logo=merit)](https://meritpages.com/Michael-Turco/8191998)
+[![ePortfolio GitHub Repository](https://img.shields.io/badge/eportfolio-github-233E56?style=for-the-badge&logo=github)](https://github.com/michaelTurco/michaelturco.github.io)&nbsp;[![Merit Pages - Michael Turco](https://img.shields.io/badge/merit_pages-michael_turco-0A6EB4?style=for-the-badge&logo=merit)](https://meritpages.com/Michael-Turco/8191998)
 
 ## Introduction
 
@@ -25,6 +25,18 @@ Throughout my 4 years in the 2+2 Computer Science program at MCC & SNHU and by d
 In [CS-360 Mobile Architecture and Programming](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming) and [CS-465 Full Stack Development](https://github.com/michaelTurco/CS-465-Full-Stack-Development), we were required to create and maintain a GitHub repository throughout the main project, and make multiple pushes for each milestone. Working this way helped me build habits that support collaboration, such as making clear and readable commit messages, and structuring my commits instead of adding tons of unrelated changes together. Even though I worked on these projects alone, the workflow mirrors a real team environment, where tools like GitHub are essential for coordinating and collaborating in a team.
 
 In **CS-250 Software Development Lifecycle** and **CS-255 Systems Analysis and Design**, I learned about the Scrum framework and Agile approach, and gained experience working with user stories, requirement gathering, and communicating with stakeholders in a more formal and structured way. I learned how to write clear and detailed user stories that capture what stakeholders need without requiring technical language, and created professional UML diagrams that are easy for non-technical audiences to understand. These courses helped me understand how to present ideas clearly and up to a specific standard, which is an important skill when working with team members, project managers, or even stakeholders.
+
+In **CS-319 UI UX Design and Development** and [CS-360 Mobile Architecture and Programming](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming), I learned so much about what makes a good user interface and user experience. I designed several professional quality user interfaces, such as for the 'Kiva Loan Manager' app, the 'Health Scanner' app, and the 'Track my Weight' app. These courses helped me realize that I truly enjoy designing UI, and love thinking about ways to improve the layout or the user experience. I've put some images below showing some of my work in these classes:
+
+<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/kiva_ui.png" target="_blank">
+    <img src="/assets/images/kiva_ui.png" width="500">
+</a>
+
+<p></p>
+
+<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/scanner_ui.png" target="_blank">
+    <img src="/assets/images/scanner_ui.png" width="500">
+</a>
 
 ---
 ## Overview of my Artifact
