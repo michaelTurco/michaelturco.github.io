@@ -26,20 +26,10 @@ In [CS-360 Mobile Architecture and Programming](https://github.com/michaelTurco/
 
 In **CS-250 Software Development Lifecycle** and **CS-255 Systems Analysis and Design**, I learned about the Scrum framework and Agile approach, and gained experience working with user stories, requirement gathering, and communicating with stakeholders in a more formal and structured way. I learned how to write clear and detailed user stories that capture what stakeholders need without requiring technical language, and created professional UML diagrams that are easy for non-technical audiences to understand. These courses helped me understand how to present ideas clearly and up to a specific standard, which is an important skill when working with team members, project managers, or even stakeholders.
 
-<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/uml_user_login.png" target="_blank">
-    <img src="/assets/images/uml_user_login.png" width="600">
-</a>
-
-In **CS-319 UI UX Design and Development** and [CS-360 Mobile Architecture and Programming](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming), I learned so much about what makes a good user interface and user experience. I designed several professional quality user interfaces, such as for the 'Kiva Loan Manager' app, the 'Health Scanner' app, and the 'Track my Weight' app. These courses helped me realize that I truly enjoy designing UI, and love thinking about ways to improve the layout or the user experience. I've put some images below showing some of my work in these classes:
+In **CS-319 UI UX Design and Development** and [CS-360 Mobile Architecture and Programming](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming), I learned so much about what makes a good user interface and user experience. I designed several professional quality user interfaces, such as for the 'Kiva Loan Manager' app, the 'Health Scanner' app, and the 'Track my Weight' app. These courses helped me realize that I truly enjoy designing UI, and love thinking about ways to improve the layout or the user experience. Here is one of the UI's I designed for a loan manager app called 'Kiva', that needed to work on small flip-phones:
 
 <a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/kiva_ui.png" target="_blank">
     <img src="/assets/images/kiva_ui.png" width="600">
-</a>
-
-<p></p>
-
-<a href="https://github.com/michaelTurco/michaelturco.github.io/blob/main/assets/images/scanner_ui.png" target="_blank">
-    <img src="/assets/images/scanner_ui.png" width="600">
 </a>
 
 ---
