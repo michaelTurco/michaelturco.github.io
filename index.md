@@ -45,7 +45,7 @@ In **CS-319 UI UX Design and Development** and [CS-360 Mobile Architecture and P
 ---
 ## Overview of my Artifact
 
-The artifact I selected for all three enhancements is my full-stack mobile application called **Track My Weight** from CS-360 Mobile Architecture and Programming. The original app lets the user create an account and log in to a local MySQL database, record new weight entries, and view their weight history in a scrollable list.
+The artifact I selected for all three enhancements is my full-stack mobile application called **Track My Weight** from [CS-360 Mobile Architecture and Programming](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming). The original app lets the user create an account and log in to a local MySQL database, record new weight entries, and view their weight history in a scrollable list.
 
 **Original Artifact:** [(Entire Project)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming/tree/10afc06251f83af4ad8769564a242649a72e942c)&nbsp;and&nbsp;[(Only Java Files)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming/tree/10afc06251f83af4ad8769564a242649a72e942c/app/src/main/java/com/turco_michael_weight_tracking)  
 **Updated Artifact:** [(Entire Project)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming)&nbsp;and&nbsp;[(Only Java Files)](https://github.com/michaelTurco/CS-360-Mobile-Architecture-And-Programming/tree/main/app/src/main/java/com/turco_michael_weight_tracking)
